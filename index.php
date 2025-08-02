@@ -31,6 +31,7 @@ konten = [
 ];
 
 musik = "musik.mp3";
+nomorWhatsapp ="6282xxx";
 
 /*=========================*/
 DekaTutorial(konten, musik, nomorWhatsapp);
